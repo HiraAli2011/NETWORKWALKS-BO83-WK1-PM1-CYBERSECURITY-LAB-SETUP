@@ -30,6 +30,10 @@ VirtualBox network configuration:  I got to spend some time mapping out how virt
 
 Static IP Configuration: I practiced manually setting up and verifying IPv4 addresses, subnet masks, default gateways, and DNS settings right inside Kali Linux. Getting this right is huge for making sure lab machines can actually find each other and talk consistently. 
 
+
 The Power of VM Snapshots: I learned the hard way (or just realized) how critical it is to take a clean snapshot before running anything risky or experimental. It saves a ton of time by giving you a reliable, known-good restore point to jump back to if a lab exercise completely breaks the system.
 
 The Value of Documentation: This project really drove home why keeping track of your steps matters. Taking notes on commands, configurations, error messages, and their solutions isn't just extra work—it's a massive part of running a professional security project and making sure you can replicate your results later.
+
+Project Summary & Personal Focus This project highly engaged my attention from start to finish. I have a strong natural drive to see tasks through to completion once I begin them, and this deployment completely captured my focus. I thoroughly enjoyed the process of troubleshooting and configuring the environment, which made the practical learning experience incredibly rewarding.
+
