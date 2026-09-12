@@ -23,6 +23,7 @@ Setting it up on a private network keeps the traffic isolated while making it ea
 ​Testing web app exploits and trying out new security utilities
 
 Key Takeaways
+
 Setting up this project gave me some solid, practical experience with building virtual environments for security testing. Here are the main things I walked away with:The difference between NAT and a NAT Network: I finally got a clear look at how these two differ in practice. Standard NAT is fine for a single isolated VM, but a NAT Network is what actually lets multiple virtual machines on the same subnet talk to each other while still sharing internet access. It’s pretty much essential if you want to build a realistic, multi-machine lab.
 
 VirtualBox network configuration:  I got to spend some time mapping out how virtual network adapters actually handle traffic. Testing different adapter modes showed me exactly how configuration choices change the communication boundaries between the guest machines, my host computer, and the outside internet.
