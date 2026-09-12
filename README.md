@@ -16,8 +16,8 @@ Setting it up on a private network keeps the traffic isolated while making it ea
 
 ​Primary Uses
 
-​The lab serves as a safe sandboxed environment for hands-on ethical hacking tasks, such as:
-​Running network scans and mapping open ports
+​The lab serves as a safe sandboxed environment for hands-on ethical hacking tasks, such as: 
+​Running network scans and mapping open ports 
 ​Finding system vulnerabilities and sniffing network traffic
 
 ​Testing web app exploits and trying out new security utilities
